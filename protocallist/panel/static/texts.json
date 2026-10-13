@@ -1,0 +1,634 @@
+{
+ "{n} s": {
+  "ru": "{n} с",
+  "en": "{n} s"
+ },
+ "{n} min": {
+  "ru": "{n} мин",
+  "en": "{n} min"
+ },
+ "Today, {date}": {
+  "ru": "Сегодня, {date}",
+  "en": "Today, {date}"
+ },
+ "Yesterday, {date}": {
+  "ru": "Вчера, {date}",
+  "en": "Yesterday, {date}"
+ },
+ "deleted {date}": {
+  "ru": "удалён {date}",
+  "en": "deleted {date}"
+ },
+ "not made small yet": {
+  "ru": "ещё не сжат",
+  "en": "not made small yet"
+ },
+ "for ever": {
+  "ru": "бессрочно",
+  "en": "for ever"
+ },
+ "{n} more days": {
+  "ru": "ещё {n} дн.",
+  "en": "{n} more days"
+ },
+ "recognised": {
+  "ru": "распознан",
+  "en": "recognised"
+ },
+ "not recognised": {
+  "ru": "не распознано",
+  "en": "not recognised"
+ },
+ "try again": {
+  "ru": "повторить",
+  "en": "try again"
+ },
+ "being recorded": {
+  "ru": "идёт запись",
+  "en": "being recorded"
+ },
+ "being recognised": {
+  "ru": "распознаётся",
+  "en": "being recognised"
+ },
+ "waits for the gateway": {
+  "ru": "ждёт шлюз",
+  "en": "waits for the gateway"
+ },
+ "waits to be recognised": {
+  "ru": "ждёт распознавания",
+  "en": "waits to be recognised"
+ },
+ "Protocallist does not answer": {
+  "ru": "Протоколист не отвечает",
+  "en": "Protocallist does not answer"
+ },
+ "Protocallist": {
+  "ru": "Протоколист",
+  "en": "Protocallist"
+ },
+ "light theme": {
+  "ru": "светлая тема",
+  "en": "light theme"
+ },
+ "dark theme": {
+  "ru": "тёмная тема",
+  "en": "dark theme"
+ },
+ "recording: {program}, {minutes} min": {
+  "ru": "идёт запись: {program}, {minutes} мин",
+  "en": "recording: {program}, {minutes} min"
+ },
+ "Stop and delete this recording": {
+  "ru": "Остановить и удалить эту запись",
+  "en": "Stop and delete this recording"
+ },
+ "error: {problem}": {
+  "ru": "ошибка: {problem}",
+  "en": "error: {problem}"
+ },
+ "recording is off": {
+  "ru": "запись выключена",
+  "en": "recording is off"
+ },
+ "no microphone is chosen": {
+  "ru": "микрофон не выбран",
+  "en": "no microphone is chosen"
+ },
+ "the microphone is not found": {
+  "ru": "микрофон не найден",
+  "en": "the microphone is not found"
+ },
+ "waits for a conversation": {
+  "ru": "ждёт разговора",
+  "en": "waits for a conversation"
+ },
+ "being recognised: 1, waiting: {waiting}": {
+  "ru": "распознаётся: 1, ждут: {waiting}",
+  "en": "being recognised: 1, waiting: {waiting}"
+ },
+ "a newer Tolmach is needed, waiting: {waiting}": {
+  "ru": "нужен Толмач новее, ждут: {waiting}",
+  "en": "a newer Tolmach is needed, waiting: {waiting}"
+ },
+ "waiting for the gateway: {waiting}": {
+  "ru": "ждёт шлюз: {waiting}",
+  "en": "waiting for the gateway: {waiting}"
+ },
+ "waiting to be recognised: {waiting}": {
+  "ru": "ждут распознавания: {waiting}",
+  "en": "waiting to be recognised: {waiting}"
+ },
+ "not recognised: {failed}": {
+  "ru": "не распознано: {failed}",
+  "en": "not recognised: {failed}"
+ },
+ "Delete for good?": {
+  "ru": "Удалить насовсем?",
+  "en": "Delete for good?"
+ },
+ "Yes": {
+  "ru": "Да",
+  "en": "Yes"
+ },
+ "No": {
+  "ru": "Нет",
+  "en": "No"
+ },
+ "seconds": {
+  "ru": "секунд",
+  "en": "seconds"
+ },
+ "from": {
+  "ru": "с какого дня",
+  "en": "from the day"
+ },
+ "to": {
+  "ru": "по какой день",
+  "en": "to the day"
+ },
+ "Search in what was said": {
+  "ru": "Поиск по тексту разговоров",
+  "en": "Search in what was said"
+ },
+ "All": {
+  "ru": "Все",
+  "en": "All"
+ },
+ "Period": {
+  "ru": "Период",
+  "en": "Period"
+ },
+ "all time": {
+  "ru": "всё время",
+  "en": "all time"
+ },
+ "today": {
+  "ru": "сегодня",
+  "en": "today"
+ },
+ "7 days": {
+  "ru": "7 дней",
+  "en": "7 days"
+ },
+ "30 days": {
+  "ru": "30 дней",
+  "en": "30 days"
+ },
+ "from … to …": {
+  "ru": "свой…",
+  "en": "my own…"
+ },
+ "Hide shorter than": {
+  "ru": "Скрыть короче",
+  "en": "Hide shorter than"
+ },
+ "s": {
+  "ru": "с",
+  "en": "s"
+ },
+ "Time": {
+  "ru": "Время",
+  "en": "Time"
+ },
+ "Program": {
+  "ru": "Программа",
+  "en": "Program"
+ },
+ "With whom": {
+  "ru": "С кем",
+  "en": "With whom"
+ },
+ "About": {
+  "ru": "О чём",
+  "en": "About"
+ },
+ "Length": {
+  "ru": "Длит.",
+  "en": "Length"
+ },
+ "Remarks": {
+  "ru": "Реплик",
+  "en": "Remarks"
+ },
+ "State": {
+  "ru": "Состояние",
+  "en": "State"
+ },
+ "Summary": {
+  "ru": "Выжимка",
+  "en": "Summary"
+ },
+ "Sound": {
+  "ru": "Звук",
+  "en": "Sound"
+ },
+ "no text yet": {
+  "ru": "текста ещё нет",
+  "en": "no text yet"
+ },
+ "beginning: ": {
+  "ru": "начало: ",
+  "en": "beginning: "
+ },
+ "(nothing was said)": {
+  "ru": "(ничего не сказано)",
+  "en": "(nothing was said)"
+ },
+ "yes": {
+  "ru": "есть",
+  "en": "yes"
+ },
+ "being made": {
+  "ru": "готовится",
+  "en": "being made"
+ },
+ "Nothing is found. Take off a filter or the tick that hides the short ones.": {
+  "ru": "Ничего не нашлось. Снимите отбор или галочку «Скрыть короче».",
+  "en": "Nothing is found. Take off a filter or the tick that hides the short ones."
+ },
+ "There is no archive yet.": {
+  "ru": "Архива ещё нет.",
+  "en": "There is no archive yet."
+ },
+ "No conversations yet.": {
+  "ru": "Записей пока нет.",
+  "en": "No conversations yet."
+ },
+ "Shown {shown} of {all}": {
+  "ru": "Показано {shown} из {all}",
+  "en": "Shown {shown} of {all}"
+ },
+ "{hours} h {minutes} min of talk in all": {
+  "ru": "всего {hours} ч {minutes} мин разговоров",
+  "en": "{hours} h {minutes} min of talk in all"
+ },
+ "the sound takes {mb} MB": {
+  "ru": "звук занимает {mb} МБ",
+  "en": "the sound takes {mb} MB"
+ },
+ "the sound is kept for ever": {
+  "ru": "звук хранится бессрочно",
+  "en": "the sound is kept for ever"
+ },
+ "the sound is not kept": {
+  "ru": "звук не хранится",
+  "en": "the sound is not kept"
+ },
+ "the sound is kept {days} days, the text for ever": {
+  "ru": "звук хранится {days} дн., текст — бессрочно",
+  "en": "the sound is kept {days} days, the text for ever"
+ },
+ "A click sends the text of this conversation to the command: {name}": {
+  "ru": "Щелчок отправит текст этого разговора команде: {name}",
+  "en": "A click sends the text of this conversation to the command: {name}"
+ },
+ "A click sends the text of this conversation to Claude (model {name})": {
+  "ru": "Щелчок отправит текст этого разговора в Claude (модель {name})",
+  "en": "A click sends the text of this conversation to Claude (model {name})"
+ },
+ "There is no such conversation.": {
+  "ru": "Такой записи нет.",
+  "en": "There is no such conversation."
+ },
+ "All conversations": {
+  "ru": "Все записи",
+  "en": "All conversations"
+ },
+ "Text": {
+  "ru": "Текст",
+  "en": "Text"
+ },
+ "{n} remarks": {
+  "ru": "реплик: {n}",
+  "en": "remarks: {n}"
+ },
+ "save as a file": {
+  "ru": "сохранить в файл",
+  "en": "save as a file"
+ },
+ "Find in this conversation": {
+  "ru": "Найти в этом разговоре",
+  "en": "Find in this conversation"
+ },
+ "Details": {
+  "ru": "Сведения",
+  "en": "Details"
+ },
+ "Not recognised after {attempts} attempts: {error}. The sound is there.": {
+  "ru": "Не распознано после {attempts} попыток: {error}. Звук на месте.",
+  "en": "Not recognised after {attempts} attempts: {error}. The sound is there."
+ },
+ "Try to recognise again": {
+  "ru": "Повторить распознавание",
+  "en": "Try to recognise again"
+ },
+ "This conversation is being recorded now.": {
+  "ru": "Этот разговор сейчас записывается.",
+  "en": "This conversation is being recorded now."
+ },
+ "This conversation is being recognised now.": {
+  "ru": "Этот разговор сейчас распознаётся.",
+  "en": "This conversation is being recognised now."
+ },
+ "It waits for the gateway of Tolmach and will be recognised by itself when the gateway is there.": {
+  "ru": "Ждёт шлюз Толмача: разговор распознается сам, когда шлюз появится.",
+  "en": "It waits for the gateway of Tolmach and will be recognised by itself when the gateway is there."
+ },
+ "It waits for the recognition service and will be recognised by itself when the service answers.": {
+  "ru": "Ждёт сервис распознавания: разговор распознается сам, когда сервис ответит.",
+  "en": "It waits for the recognition service and will be recognised by itself when the service answers."
+ },
+ "It waits to be recognised.": {
+  "ru": "Ждёт распознавания.",
+  "en": "It waits to be recognised."
+ },
+ "Show the file of the sound": {
+  "ru": "Показать файл звука",
+  "en": "Show the file of the sound"
+ },
+ "Delete the conversation": {
+  "ru": "Удалить запись",
+  "en": "Delete the conversation"
+ },
+ "MB": {
+  "ru": "МБ",
+  "en": "MB"
+ },
+ "none yet": {
+  "ru": "ещё нет",
+  "en": "none yet"
+ },
+ "Files": {
+  "ru": "Файлы",
+  "en": "Files"
+ },
+ "Nothing was said in this conversation.": {
+  "ru": "В этом разговоре ничего не сказано.",
+  "en": "Nothing was said in this conversation."
+ },
+ "No text yet: the conversation is not recognised.": {
+  "ru": "Текста ещё нет: разговор не распознан.",
+  "en": "No text yet: the conversation is not recognised."
+ },
+ "Me": {
+  "ru": "Я",
+  "en": "Me"
+ },
+ "Others": {
+  "ru": "Собеседники",
+  "en": "Others"
+ },
+ "These words are not in this conversation.": {
+  "ru": "Таких слов в этом разговоре нет.",
+  "en": "These words are not in this conversation."
+ },
+ "It did not work: {reason}": {
+  "ru": "Не получилось: {reason}",
+  "en": "It did not work: {reason}"
+ },
+ "A summary can be made when the conversation is recognised.": {
+  "ru": "Выжимку можно будет сделать, когда разговор распознается.",
+  "en": "A summary can be made when the conversation is recognised."
+ },
+ "Being made…": {
+  "ru": "Готовится…",
+  "en": "Being made…"
+ },
+ "About a minute, as a rule. The page need not stay open.": {
+  "ru": "Обычно около минуты. Страницу можно не держать открытой.",
+  "en": "About a minute, as a rule. The page need not stay open."
+ },
+ "There is no summary yet.": {
+  "ru": "Выжимки ещё нет.",
+  "en": "There is no summary yet."
+ },
+ "Make a summary": {
+  "ru": "Сделать выжимку",
+  "en": "Make a summary"
+ },
+ "Nothing else goes anywhere.": {
+  "ru": "Больше ничего никуда не уходит.",
+  "en": "Nothing else goes anywhere."
+ },
+ "A new one is being made…": {
+  "ru": "Готовится новый вариант…",
+  "en": "A new one is being made…"
+ },
+ "The one before is shown meanwhile.": {
+  "ru": "Пока показан прежний.",
+  "en": "The one before is shown meanwhile."
+ },
+ "made {when} · {maker} · {seconds} s": {
+  "ru": "сделана {when} · {maker} · {seconds} с",
+  "en": "made {when} · {maker} · {seconds} s"
+ },
+ "make again": {
+  "ru": "сделать заново",
+  "en": "make again"
+ },
+ "The sound was deleted {date}; the text stays.": {
+  "ru": "Звук удалён {date}, текст остался.",
+  "en": "The sound was deleted {date}; the text stays."
+ },
+ "The sound of this conversation is not ready to be listened to.": {
+  "ru": "Звук этого разговора ещё не готов к прослушиванию.",
+  "en": "The sound of this conversation is not ready to be listened to."
+ },
+ "Listen": {
+  "ru": "Слушать",
+  "en": "Listen"
+ },
+ "listen to:": {
+  "ru": "слушать:",
+  "en": "listen to:"
+ },
+ "both": {
+  "ru": "обоих",
+  "en": "both"
+ },
+ "me": {
+  "ru": "меня",
+  "en": "me"
+ },
+ "the others": {
+  "ru": "собеседников",
+  "en": "the others"
+ },
+ "A click on a lane goes to that place": {
+  "ru": "Щелчок по дорожке — перейти к этому месту",
+  "en": "A click on a lane goes to that place"
+ },
+ "Pause": {
+  "ru": "Пауза",
+  "en": "Pause"
+ },
+ "The sound could not be opened.": {
+  "ru": "Звук не открылся.",
+  "en": "The sound could not be opened."
+ },
+ "Open the panel from the icon of Protocallist.": {
+  "ru": "Откройте панель из значка Протоколиста.",
+  "en": "Open the panel from the icon of Protocallist."
+ },
+ "Add to the line": {
+  "ru": "Добавить в очередь",
+  "en": "Add to the line"
+ },
+ "Chosen: {n}": {
+  "ru": "Выбрано: {n}",
+  "en": "Chosen: {n}"
+ },
+ "Conversations in it: {n}. Why it stopped: {reason}. What is to become of it, now that more is sent?": {
+  "ru": "Разговоров в ней: {n}. Причина остановки: {reason}. Что с ней сделать, отправляя выбранное?",
+  "en": "Conversations in it: {n}. Why it stopped: {reason}. What is to become of it, now that more is sent?"
+ },
+ "In the line…": {
+  "ru": "В очереди…",
+  "en": "In the line…"
+ },
+ "Make summaries: {n}": {
+  "ru": "Сделать выжимки: {n}",
+  "en": "Make summaries: {n}"
+ },
+ "Replace the summary with a new one?": {
+  "ru": "Заменить выжимку новой?",
+  "en": "Replace the summary with a new one?"
+ },
+ "Start again: {n}": {
+  "ru": "Перезапустить: {n}",
+  "en": "Start again: {n}"
+ },
+ "Start anew": {
+  "ru": "Запустить заново",
+  "en": "Start anew"
+ },
+ "Summaries are made one after another, about a minute each.": {
+  "ru": "Выжимки делаются по очереди, примерно по минуте на разговор.",
+  "en": "Summaries are made one after another, about a minute each."
+ },
+ "Summaries are made one at a time. The page need not stay open.": {
+  "ru": "Выжимки делаются по одной. Страницу можно не держать открытой.",
+  "en": "Summaries are made one at a time. The page need not stay open."
+ },
+ "Summaries: being made {making}, in the line {queued}": {
+  "ru": "Выжимки: готовится {making}, в очереди {queued}",
+  "en": "Summaries: being made {making}, in the line {queued}"
+ },
+ "The line stands still": {
+  "ru": "Очередь остановлена",
+  "en": "The line stands still"
+ },
+ "The page may be closed: the line goes on in the program itself.": {
+  "ru": "Страницу можно закрыть — очередь идёт в самой программе.",
+  "en": "The page may be closed: the line goes on in the program itself."
+ },
+ "The text of the chosen conversations goes to Claude (model {name}).": {
+  "ru": "Текст выбранных разговоров уйдёт в Claude (модель {name}).",
+  "en": "The text of the chosen conversations goes to Claude (model {name})."
+ },
+ "The text of the chosen conversations goes to the command: {name}.": {
+  "ru": "Текст выбранных разговоров уйдёт команде: {name}.",
+  "en": "The text of the chosen conversations goes to the command: {name}."
+ },
+ "There is a line that stands still": {
+  "ru": "Есть остановленная очередь",
+  "en": "There is a line that stands still"
+ },
+ "cancel": {
+  "ru": "отмена",
+  "en": "cancel"
+ },
+ "choose all that have no summary": {
+  "ru": "выбрать все, у которых нет выжимки",
+  "en": "choose all that have no summary"
+ },
+ "choose for a summary": {
+  "ru": "выбрать для выжимки",
+  "en": "choose for a summary"
+ },
+ "did not work": {
+  "ru": "не получилось",
+  "en": "did not work"
+ },
+ "forget it": {
+  "ru": "сбросить",
+  "en": "forget it"
+ },
+ "in the line": {
+  "ru": "в очереди",
+  "en": "in the line"
+ },
+ "none": {
+  "ru": "нет",
+  "en": "none"
+ },
+ "not sent": {
+  "ru": "не отправлен",
+  "en": "not sent"
+ },
+ "stop the line": {
+  "ru": "остановить очередь",
+  "en": "stop the line"
+ },
+ "take the ticks off": {
+  "ru": "снять выделение",
+  "en": "take the ticks off"
+ },
+ "“Start anew”: the line that stood is forgotten, only this conversation goes. “Add to the line”: the line that stood starts again, this conversation goes first.": {
+  "ru": "«Запустить заново» — прежняя очередь сбрасывается, идёт только этот разговор. «Добавить в очередь» — прежняя запускается снова, этот разговор идёт первым.",
+  "en": "“Start anew”: the line that stood is forgotten, only this conversation goes. “Add to the line”: the line that stood starts again, this conversation goes first."
+ },
+ "“Start anew”: the line that stood is forgotten, only what is chosen goes. “Add to the line”: the line that stood starts again, what is chosen joins its end.": {
+  "ru": "«Запустить заново» — прежняя очередь сбрасывается, идёт только выбранное. «Добавить в очередь» — прежняя запускается снова, выбранное встаёт в конец.",
+  "en": "“Start anew”: the line that stood is forgotten, only what is chosen goes. “Add to the line”: the line that stood starts again, what is chosen joins its end."
+ },
+ "being recognised anew": {
+  "ru": "распознаётся заново",
+  "en": "being recognised anew"
+ },
+ "recognise anew…": {
+  "ru": "распознать заново…",
+  "en": "recognise anew…"
+ },
+ "With which model?": {
+  "ru": "Какой моделью?",
+  "en": "With which model?"
+ },
+ "{model} — now": {
+  "ru": "{model} — сейчас",
+  "en": "{model} — now"
+ },
+ "{model} — not installed: download it in the menu of Tolmach": {
+  "ru": "{model} — не установлена: скачайте в меню Толмача",
+  "en": "{model} — not installed: download it in the menu of Tolmach"
+ },
+ "{model} — replace the text?": {
+  "ru": "{model} — заменить текст?",
+  "en": "{model} — replace the text?"
+ },
+ "Being recognised anew: {model}…": {
+  "ru": "Распознаётся заново: {model}…",
+  "en": "Being recognised anew: {model}…"
+ },
+ "The text there is stays until the new one is ready.": {
+  "ru": "Прежний текст на месте, пока не готов новый.",
+  "en": "The text there is stays until the new one is ready."
+ },
+ "It could not be recognised anew: {reason}": {
+  "ru": "Распознать заново не получилось: {reason}",
+  "en": "It could not be recognised anew: {reason}"
+ },
+ "by the text before": {
+  "ru": "по прежнему тексту",
+  "en": "by the text before"
+ },
+ "it could not be recognised anew": {
+  "ru": "распознать заново не получилось",
+  "en": "it could not be recognised anew"
+ },
+ "take it back": {
+  "ru": "отменить",
+  "en": "take it back"
+ }
+}
